@@ -11,5 +11,6 @@ func main() {
 }
 
 func hello() string {
-	return "Hello Glang"
+	fmt.Println("teste ci")
+  return "Hello Glang"
 }
